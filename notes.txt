@@ -1,3 +1,0 @@
-**Clonar un repositorio**:
-
-   git clone <url-del-repositorio>
